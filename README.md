@@ -217,32 +217,6 @@ Desenvolvimento de sistemas de automação end-to-end para eliminação de taref
 
 ---
 
-## Certificações & Aprendizado
-
-- **GitHub Copilot** - Certificado Bradesco
-- **Database Technologies** - Certificado Bradesco
-- Aprendizado constante em **IA Generativa** (OpenAI, Gemini)
-- Experiência prática em **RPA** com projetos corporativos reais
-- Expertise em **integração de sistemas** e **automação end-to-end**
-
----
-
-## Estatísticas GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=felipeakira123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeakira123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeakira123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeakira123&theme=tokyonight" alt="Perfil GitHub" width="98%" />
-
-</div>
-
----
-
 ## Contato
 
 Estou aberto a novos desafios e oportunidades de colaboração em automação, RPA e inteligência artificial.
