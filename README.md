@@ -235,9 +235,10 @@ Estou aberto a novos desafios e oportunidades de colaboração em automação, R
 [![RPA](https://img.shields.io/badge/RPA-Specialist-4B0082?style=flat&logo=robot&logoColor=white)](#)
 [![AI](https://img.shields.io/badge/AI-Integration-412991?style=flat&logo=openai&logoColor=white)](#)
 
-```markdown
+<br/>
+<br/>
+
 ### 🌐 Acesse meu site completo
-[Portfolio Online →](https://felipeakira.lovable.app/)
-```
+### [Portfolio Online →](https://felipeakira.lovable.app/)
 
 </div>
