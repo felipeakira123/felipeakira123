@@ -227,13 +227,17 @@ Desenvolvimento de sistemas de automação end-to-end para eliminação de taref
 
 ---
 
-## Estatísticas
+## Estatísticas GitHub
 
 <div align="center">
 
-![Estatísticas gerais](https://github-readme-stats.vercel.app/api?username=felipeakira123&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=felipeakira123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeakira123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" width="48%" />
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeakira123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeakira123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeakira123&theme=tokyonight" alt="Perfil GitHub" width="98%" />
 
 </div>
 
